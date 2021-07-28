@@ -3,3 +3,5 @@ function reverseString(string) {
     let reversed = split.reverse();
     return reversed.join('');
 }
+
+module.exports = reverseString;
